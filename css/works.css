@@ -357,6 +357,10 @@ footer{
     .topnav a.icon {
       margin-left: 60%;
     }
+      
+    .contact-btn{
+        font-size: 1rem;
+    }
 
   }
 
